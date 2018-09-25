@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "au.com.codycodes.tpk.tamizhpallikoodam"
+        applicationId "au.com.dmtprojects.tamizhpallikoodam"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
