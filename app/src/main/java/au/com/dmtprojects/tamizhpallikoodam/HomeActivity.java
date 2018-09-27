@@ -50,7 +50,7 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        // Find the View that shows the colors category
+        // Find the View that shows the colors category testing
         vocabulary = findViewById(R.id.CardView_vocabulary);
 
         // Set a click listener on that View
