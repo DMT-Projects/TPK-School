@@ -11,7 +11,7 @@ import java.util.Random;
 
 import au.com.dmtprojects.tamizhpallikoodam.Quiz;
 import au.com.dmtprojects.tamizhpallikoodam.Word;
-import tamizhpallikoodam.R;
+import au.com.dmtprojects.tamizhpallikoodam.R;
 
 
 public class DatabaseHelper extends SQLiteOpenHelper{

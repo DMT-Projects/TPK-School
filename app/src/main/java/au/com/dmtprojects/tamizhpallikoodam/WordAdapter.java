@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import tamizhpallikoodam.R;
+import au.com.dmtprojects.tamizhpallikoodam.R;
 
 /**
  * {@link WordAdapter} is an {@link ArrayAdapter} that can provide the layout for each list item

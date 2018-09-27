@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.CardView;
 import android.view.View;
 
-import tamizhpallikoodam.R;
+import au.com.dmtprojects.tamizhpallikoodam.R;
 
 public class VocabularyActivity extends AppCompatActivity {
 

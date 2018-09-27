@@ -14,7 +14,7 @@ import android.media.MediaPlayer;
 
 import au.com.dmtprojects.tamizhpallikoodam.Quiz;
 import au.com.dmtprojects.tamizhpallikoodam.ResultSplashActivity;
-import tamizhpallikoodam.R;
+import au.com.dmtprojects.tamizhpallikoodam.R;
 
 public class QuestionActivity extends AppCompatActivity {
 

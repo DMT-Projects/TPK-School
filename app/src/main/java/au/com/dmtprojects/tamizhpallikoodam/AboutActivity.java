@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
-import tamizhpallikoodam.R;
+import au.com.dmtprojects.tamizhpallikoodam.R;
 
 public class AboutActivity extends AppCompatActivity {
 

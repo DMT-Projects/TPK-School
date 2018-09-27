@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import au.com.dmtprojects.tamizhpallikoodam.Word;
 import au.com.dmtprojects.tamizhpallikoodam.WordAdapter;
 import au.com.dmtprojects.tamizhpallikoodam.DatabaseHelper;
-import tamizhpallikoodam.R;
+import au.com.dmtprojects.tamizhpallikoodam.R;
 
 public class LearnActivity extends AppCompatActivity {
 
